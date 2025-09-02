@@ -12,8 +12,8 @@ You could also add a note in the .env setup section like:
 OPENAI_API_KEY=your-api-key
 
 Here’s how to get rolling with `@ai-sdk/openai` in VS Code:
-
 npm init -y
+
 npm install @ai-sdk/openai
 ---
 
