@@ -13,6 +13,8 @@ OPENAI_API_KEY=your-api-key
 
 Here’s how to get rolling with `@ai-sdk/openai` in VS Code:
 
+npm init -y
+npm install @ai-sdk/openai
 ---
 
 🛠 Step-by-Step Setup for Node.js + AI SDK in VS Code
